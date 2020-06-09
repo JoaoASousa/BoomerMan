@@ -9,6 +9,9 @@
     - [João António Cardoso Vieira e Basto de Sousa](https://github.com/JoaoASousa) ([up201806613@fe.up.pt](up201806613@fe.up.pt))
     - [Rafael Soares Ribeiro](https://github.com/up201806330) ([up201806330@fe.up.pt](mailto:up201806330@fe.up.pt))
 
+## Instalation
+This game runs on a MINIX environment provided by the the faculty ([here](https://drive.google.com/file/d/1fr53rXFJPd6oopmLKT6f6j77bqqiEWKh/view)). Simply install the image on a virtual machine software and navigate to the project source file to compile and run.
+
 ## Make commands
 ### Compile
 
